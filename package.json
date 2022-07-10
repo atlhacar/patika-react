@@ -1,0 +1,17 @@
+{
+  "name": "app-patika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "ahmttlhacar01@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fetch": "^1.1.0",
+    "slugify": "^1.6.5"
+  }
+}
